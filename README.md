@@ -95,6 +95,14 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
+## Design Wirefram 
+### Home page
+
+![Home page](https://github.com/user-attachments/assets/6f002b15-1aad-4764-834b-d8bb9d50bfdd)
+
+
+---
+
 ## 📄 License
 
 [MIT](./LICENSE)
